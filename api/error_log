@@ -1,0 +1,1267 @@
+[27-Jul-2018 07:30:04 UTC] PHP Parse error:  syntax error, unexpected '"time_to_live"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 42
+[27-Jul-2018 07:36:37 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 444
+[27-Jul-2018 07:49:09 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 07:51:13 UTC] PHP Fatal error:  Call to undefined function getAdminDetails() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 482
+[27-Jul-2018 09:30:46 UTC] PHP Fatal error:  Call to undefined function getAdminDetails() in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 482
+[27-Jul-2018 09:32:29 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 09:44:59 UTC] PHP Notice:  Undefined index: fld_id in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 473
+[27-Jul-2018 09:45:17 UTC] PHP Notice:  Undefined index: fld_id in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 473
+[27-Jul-2018 10:04:04 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 854
+[27-Jul-2018 10:10:44 UTC] PHP Notice:  Undefined index: admin_id in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 815
+[27-Jul-2018 10:10:44 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 847
+[27-Jul-2018 10:11:01 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 854
+[27-Jul-2018 10:12:25 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 854
+[27-Jul-2018 10:55:30 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 854
+[27-Jul-2018 12:09:54 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 12:10:36 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 12:11:40 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 12:51:14 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 13:25:52 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 13:25:53 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 13:27:21 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 13:27:22 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 13:40:56 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 13:41:27 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 13:43:30 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 13:43:30 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 13:49:31 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 850
+[27-Jul-2018 13:49:36 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[27-Jul-2018 13:49:36 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[27-Jul-2018 13:49:36 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[27-Jul-2018 13:49:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 13:49:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 13:49:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 13:49:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 13:49:59 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 31
+[27-Jul-2018 13:50:01 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[27-Jul-2018 13:50:01 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[27-Jul-2018 13:50:01 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[27-Jul-2018 13:50:01 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 13:50:01 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 13:50:01 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 13:50:01 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 13:50:17 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 31
+[27-Jul-2018 13:50:19 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[27-Jul-2018 13:50:19 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[27-Jul-2018 13:50:19 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[27-Jul-2018 13:50:19 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 13:50:19 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 13:50:19 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 13:50:19 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 13:50:34 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 850
+[27-Jul-2018 13:50:48 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 850
+[27-Jul-2018 13:52:55 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 13:52:56 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 13:53:26 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 13:53:27 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 13:53:32 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 850
+[27-Jul-2018 13:54:37 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 13:54:38 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 13:54:43 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 850
+[27-Jul-2018 13:55:53 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 13:55:54 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 13:55:58 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 850
+[27-Jul-2018 14:09:02 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 861
+[27-Jul-2018 14:10:06 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 14:10:26 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 14:10:51 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 14:12:25 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 856
+[27-Jul-2018 14:12:48 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 855
+[27-Jul-2018 14:13:05 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 855
+[27-Jul-2018 14:17:48 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[27-Jul-2018 14:20:42 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 14:21:09 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 14:21:10 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 14:21:14 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[27-Jul-2018 14:21:29 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[27-Jul-2018 14:22:04 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 14:22:05 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 14:22:13 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[27-Jul-2018 14:22:13 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[27-Jul-2018 14:22:13 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[27-Jul-2018 14:22:13 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 14:22:13 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 14:22:13 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 14:22:13 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 14:22:33 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 14:22:33 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 14:25:43 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 14:25:44 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 14:42:21 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 14:42:40 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 14:45:16 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 14:45:24 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 14:45:26 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 14:45:43 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[27-Jul-2018 14:47:28 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[27-Jul-2018 14:47:29 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[27-Jul-2018 14:48:11 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[27-Jul-2018 14:48:11 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[27-Jul-2018 14:48:11 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[27-Jul-2018 14:48:11 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 14:48:11 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 14:48:11 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 14:48:11 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[27-Jul-2018 16:43:01 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[29-Jul-2018 16:53:56 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[30-Jul-2018 01:29:40 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[30-Jul-2018 01:31:25 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[30-Jul-2018 01:31:27 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[01-Aug-2018 06:15:33 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:15:33 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:15:33 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:15:33 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:15:33 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:15:33 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:15:34 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:15:34 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:15:34 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:15:34 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:15:34 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:15:34 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:15:34 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[01-Aug-2018 06:15:35 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:15:35 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[01-Aug-2018 06:15:35 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[01-Aug-2018 06:15:36 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[01-Aug-2018 06:15:36 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[01-Aug-2018 06:15:36 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[01-Aug-2018 06:17:40 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:17:41 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[01-Aug-2018 06:18:04 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:18:16 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:18:30 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:18:31 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[01-Aug-2018 06:19:41 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[01-Aug-2018 06:19:41 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[01-Aug-2018 06:19:41 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[01-Aug-2018 06:19:41 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:19:41 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:19:41 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:19:41 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:20:04 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[01-Aug-2018 06:20:04 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[01-Aug-2018 06:20:04 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[01-Aug-2018 06:20:04 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:20:04 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:20:04 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:20:04 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:20:46 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[01-Aug-2018 06:20:46 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[01-Aug-2018 06:20:46 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[01-Aug-2018 06:20:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:20:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:20:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:20:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:20:56 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[01-Aug-2018 06:20:56 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[01-Aug-2018 06:20:56 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[01-Aug-2018 06:20:56 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:20:56 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:20:56 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:20:56 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:21:22 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[01-Aug-2018 06:21:22 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[01-Aug-2018 06:21:22 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[01-Aug-2018 06:21:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:21:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:21:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:21:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:23:49 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[01-Aug-2018 06:23:49 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[01-Aug-2018 06:23:49 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[01-Aug-2018 06:23:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:23:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:23:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:23:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:24:57 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[01-Aug-2018 06:24:57 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[01-Aug-2018 06:24:57 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[01-Aug-2018 06:24:57 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[01-Aug-2018 06:24:57 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[01-Aug-2018 06:24:57 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[01-Aug-2018 06:24:57 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[01-Aug-2018 06:24:57 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[01-Aug-2018 06:24:57 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[01-Aug-2018 06:26:17 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[01-Aug-2018 06:26:17 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[01-Aug-2018 06:26:17 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[01-Aug-2018 06:26:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:26:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:26:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:26:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:26:34 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[01-Aug-2018 06:30:26 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[01-Aug-2018 06:30:26 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[01-Aug-2018 06:30:26 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[01-Aug-2018 06:30:26 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[01-Aug-2018 06:30:26 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[01-Aug-2018 06:30:26 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[01-Aug-2018 06:30:26 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[01-Aug-2018 06:30:26 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[01-Aug-2018 06:30:26 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[01-Aug-2018 06:30:26 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[01-Aug-2018 06:30:26 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[01-Aug-2018 06:30:39 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[01-Aug-2018 06:30:39 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[01-Aug-2018 06:30:39 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[01-Aug-2018 06:30:39 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[01-Aug-2018 06:30:39 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[01-Aug-2018 06:30:39 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[01-Aug-2018 06:30:39 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[01-Aug-2018 06:30:39 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[01-Aug-2018 06:30:39 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[01-Aug-2018 06:30:39 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[01-Aug-2018 06:30:39 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[01-Aug-2018 06:30:57 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[01-Aug-2018 06:30:57 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[01-Aug-2018 06:30:57 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[01-Aug-2018 06:30:57 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:30:57 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:30:57 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:36:22 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[01-Aug-2018 06:36:22 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[01-Aug-2018 06:36:22 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[01-Aug-2018 06:36:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:36:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:36:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[01-Aug-2018 06:47:01 UTC] PHP Notice:  Undefined variable: json in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 541
+[01-Aug-2018 06:48:54 UTC] PHP Notice:  Undefined variable: json in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 541
+[01-Aug-2018 06:48:54 UTC] PHP Notice:  Undefined variable: total_records in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 287
+[01-Aug-2018 06:49:31 UTC] PHP Notice:  Undefined variable: json in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 541
+[01-Aug-2018 06:49:31 UTC] PHP Notice:  Undefined variable: total_records in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 287
+[01-Aug-2018 06:50:55 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[01-Aug-2018 06:54:40 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[01-Aug-2018 06:55:28 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[01-Aug-2018 06:57:26 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 06:57:27 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[01-Aug-2018 07:15:17 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[01-Aug-2018 07:15:17 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[01-Aug-2018 07:15:17 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[01-Aug-2018 07:15:17 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[01-Aug-2018 07:15:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[01-Aug-2018 07:15:17 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[01-Aug-2018 07:15:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[01-Aug-2018 07:15:17 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[01-Aug-2018 07:15:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[01-Aug-2018 07:15:17 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[01-Aug-2018 07:15:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[01-Aug-2018 07:25:00 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[01-Aug-2018 07:25:01 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[01-Aug-2018 07:39:33 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[01-Aug-2018 07:39:41 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[01-Aug-2018 07:39:47 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[01-Aug-2018 07:40:24 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[01-Aug-2018 07:41:14 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[01-Aug-2018 07:42:32 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[01-Aug-2018 07:43:26 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[01-Aug-2018 07:53:50 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[01-Aug-2018 08:02:56 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[01-Aug-2018 08:03:12 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[01-Aug-2018 08:03:34 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[01-Aug-2018 09:36:08 UTC] PHP Notice:  Undefined variable: json in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 541
+[01-Aug-2018 09:36:08 UTC] PHP Notice:  Undefined variable: total_records in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 287
+[01-Aug-2018 09:36:20 UTC] PHP Notice:  Undefined variable: json in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 541
+[01-Aug-2018 09:36:20 UTC] PHP Notice:  Undefined variable: total_records in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 287
+[01-Aug-2018 18:59:17 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[02-Aug-2018 14:43:32 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[06-Aug-2018 15:55:45 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[07-Aug-2018 10:12:32 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[07-Aug-2018 10:12:33 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[07-Aug-2018 10:13:51 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[07-Aug-2018 10:13:52 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[07-Aug-2018 10:14:07 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[07-Aug-2018 10:14:07 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[07-Aug-2018 10:14:07 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[07-Aug-2018 10:14:07 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[07-Aug-2018 10:14:07 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[07-Aug-2018 10:14:07 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[07-Aug-2018 10:14:14 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[07-Aug-2018 10:14:14 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[07-Aug-2018 10:14:14 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[07-Aug-2018 10:14:14 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:14:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:14:14 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:14:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:14:14 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:14:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:14:14 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:14:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:14:14 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:14:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:14:51 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[07-Aug-2018 10:16:22 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[07-Aug-2018 10:16:22 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[07-Aug-2018 10:16:22 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[07-Aug-2018 10:16:22 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:16:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:16:22 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:16:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:16:22 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:16:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:16:22 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:16:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:16:22 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:16:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:16:22 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:16:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:16:54 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[07-Aug-2018 10:16:57 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[07-Aug-2018 10:16:57 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[07-Aug-2018 10:16:57 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[07-Aug-2018 10:16:57 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:16:57 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:16:57 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:16:57 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:16:57 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:16:57 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:16:57 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:16:57 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:16:57 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:16:57 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:16:57 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:16:57 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:17:04 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[07-Aug-2018 10:17:04 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[07-Aug-2018 10:17:04 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[07-Aug-2018 10:17:04 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[07-Aug-2018 10:17:04 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[07-Aug-2018 10:17:38 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[07-Aug-2018 10:17:38 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[07-Aug-2018 10:17:38 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[07-Aug-2018 10:17:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[07-Aug-2018 10:17:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[07-Aug-2018 10:17:48 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[07-Aug-2018 10:17:50 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[07-Aug-2018 10:17:50 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[07-Aug-2018 10:17:50 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[07-Aug-2018 10:17:50 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:17:50 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:17:50 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:17:50 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:17:50 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:17:50 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:17:50 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:17:50 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:17:50 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:17:50 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:17:50 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[07-Aug-2018 10:17:50 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[07-Aug-2018 10:17:59 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[07-Aug-2018 10:17:59 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[07-Aug-2018 10:17:59 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[07-Aug-2018 10:17:59 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[07-Aug-2018 10:17:59 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[07-Aug-2018 10:18:11 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[07-Aug-2018 10:18:23 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[07-Aug-2018 13:06:15 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[07-Aug-2018 13:06:16 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[09-Aug-2018 11:08:46 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[11-Aug-2018 13:23:16 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[11-Aug-2018 16:07:18 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 05:32:20 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 05:37:33 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 05:39:42 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 05:39:43 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 05:39:52 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[13-Aug-2018 05:39:52 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[13-Aug-2018 05:39:52 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[13-Aug-2018 05:39:52 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 05:39:52 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 05:39:52 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 05:41:05 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[13-Aug-2018 05:42:04 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[13-Aug-2018 05:42:04 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[13-Aug-2018 05:42:04 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[13-Aug-2018 05:42:04 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 05:42:04 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 05:42:04 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 05:49:33 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 05:50:21 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 05:51:07 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 05:51:08 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 05:51:36 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 05:51:37 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 05:52:32 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 05:52:33 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 05:55:32 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[13-Aug-2018 05:55:32 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[13-Aug-2018 05:55:32 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[13-Aug-2018 05:55:32 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 05:55:32 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 05:55:32 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 05:55:54 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[13-Aug-2018 05:55:54 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[13-Aug-2018 05:55:54 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[13-Aug-2018 05:55:54 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 05:55:54 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 05:55:54 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:19:25 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 06:19:26 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 06:19:32 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[13-Aug-2018 06:19:32 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[13-Aug-2018 06:19:32 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[13-Aug-2018 06:19:32 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:19:32 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:19:32 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:29:52 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 06:29:53 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 06:29:58 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[13-Aug-2018 06:29:58 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[13-Aug-2018 06:29:58 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[13-Aug-2018 06:29:58 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:29:58 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:29:58 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:33:09 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 06:33:16 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 06:33:17 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 06:33:25 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[13-Aug-2018 06:33:25 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[13-Aug-2018 06:33:25 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[13-Aug-2018 06:33:25 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:33:25 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:33:25 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:40:03 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 06:52:40 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 06:52:41 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 06:52:51 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[13-Aug-2018 06:52:51 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[13-Aug-2018 06:52:51 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[13-Aug-2018 06:52:51 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:52:51 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:52:51 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:56:31 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 06:56:32 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 06:56:39 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[13-Aug-2018 06:56:39 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[13-Aug-2018 06:56:39 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[13-Aug-2018 06:56:39 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:56:39 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:56:39 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:58:35 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 06:58:36 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 06:58:40 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[13-Aug-2018 06:58:40 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[13-Aug-2018 06:58:40 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[13-Aug-2018 06:58:40 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:58:40 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:58:40 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 06:59:59 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 07:00:00 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 07:00:07 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[13-Aug-2018 07:00:07 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[13-Aug-2018 07:00:07 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[13-Aug-2018 07:00:07 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 07:00:07 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 07:00:07 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 07:01:07 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 07:01:08 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 07:01:15 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[13-Aug-2018 07:01:15 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[13-Aug-2018 07:01:15 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[13-Aug-2018 07:01:15 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 07:01:15 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 07:01:15 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 09:35:36 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 09:35:37 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 09:35:43 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[13-Aug-2018 09:35:43 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[13-Aug-2018 09:35:43 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[13-Aug-2018 09:35:43 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 09:35:43 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 09:35:43 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 09:35:50 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[13-Aug-2018 09:38:46 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[13-Aug-2018 09:42:34 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[13-Aug-2018 09:42:34 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[13-Aug-2018 09:42:34 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[13-Aug-2018 09:42:34 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 09:42:34 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 09:42:34 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 09:43:56 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 09:43:57 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 09:55:02 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 09:55:03 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 09:56:39 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 09:56:40 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 09:59:32 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 09:59:33 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 10:09:01 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 10:09:02 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 10:20:32 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 10:20:33 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 10:21:13 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 10:21:14 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 10:25:51 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 10:26:41 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[13-Aug-2018 10:26:41 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[13-Aug-2018 10:26:41 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[13-Aug-2018 10:26:41 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 10:26:41 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 10:26:41 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 10:26:41 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 10:26:41 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 10:26:41 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 10:26:41 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 10:26:41 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 10:26:41 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 10:26:41 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 10:26:41 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 10:26:41 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 10:28:42 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[13-Aug-2018 10:28:42 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[13-Aug-2018 10:28:42 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[13-Aug-2018 10:28:42 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 10:28:42 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 10:28:42 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 10:28:42 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 10:28:42 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 10:28:42 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 10:28:42 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 10:28:42 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 10:28:42 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 10:28:42 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 10:28:42 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 10:28:42 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 10:33:40 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 10:33:41 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 10:54:05 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 10:54:06 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 10:56:39 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 10:56:40 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 11:04:59 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 11:05:00 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 11:08:00 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 11:08:01 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 11:11:38 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 11:11:39 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 11:13:39 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 11:13:40 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 11:17:07 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 11:17:08 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 11:18:05 UTC] PHP Notice:  Undefined index: tenent_name in /home/roomdadd/public_html/roomdaddy/admin/api/building-approval.php on line 38
+[13-Aug-2018 11:21:39 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[13-Aug-2018 11:21:39 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[13-Aug-2018 11:21:39 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[13-Aug-2018 11:21:39 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:21:39 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:21:39 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:21:39 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:21:39 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:21:39 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:21:39 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:21:39 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:21:39 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:21:39 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:21:39 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:21:39 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:22:27 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 523
+[13-Aug-2018 11:22:27 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 531
+[13-Aug-2018 11:22:27 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 539
+[13-Aug-2018 11:22:27 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 11:22:27 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 11:22:27 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 562
+[13-Aug-2018 11:22:33 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[13-Aug-2018 11:22:33 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[13-Aug-2018 11:22:33 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[13-Aug-2018 11:22:33 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:22:33 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:22:33 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:22:33 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:22:33 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:22:33 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:22:33 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:22:33 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:22:33 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:22:33 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:22:33 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:22:33 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:32:20 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 11:32:21 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 11:44:13 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 11:44:14 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 11:44:42 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[13-Aug-2018 11:44:42 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[13-Aug-2018 11:44:42 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[13-Aug-2018 11:44:42 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:44:42 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:44:42 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:44:42 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:44:42 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:44:42 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:44:42 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:44:42 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:44:42 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:44:42 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:44:42 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:44:42 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:45:57 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 11:45:59 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 11:46:07 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[13-Aug-2018 11:46:07 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[13-Aug-2018 11:46:07 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[13-Aug-2018 11:46:07 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:46:07 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:46:07 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:46:07 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:46:07 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:46:07 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:46:07 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:46:07 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:46:07 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:46:07 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:46:07 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:46:07 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:51:20 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 11:51:21 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 11:51:26 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[13-Aug-2018 11:51:26 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[13-Aug-2018 11:51:26 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[13-Aug-2018 11:51:26 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:51:26 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:51:26 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:51:26 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:51:26 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:51:26 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:51:26 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:51:26 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:51:26 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:51:26 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:51:26 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:51:26 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:57:51 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 11:57:52 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 11:58:04 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 692
+[13-Aug-2018 11:58:04 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 700
+[13-Aug-2018 11:58:04 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 708
+[13-Aug-2018 11:58:04 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:58:04 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:58:04 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:58:04 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:58:04 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:58:04 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:58:04 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:58:04 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:58:04 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:58:04 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 11:58:04 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 744
+[13-Aug-2018 11:58:04 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 747
+[13-Aug-2018 12:17:52 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 12:17:53 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 12:24:15 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 12:25:38 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 12:25:39 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 12:25:51 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[13-Aug-2018 12:27:18 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 12:27:19 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 12:27:23 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[13-Aug-2018 12:28:06 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[13-Aug-2018 12:29:32 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 12:29:33 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 12:30:15 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[13-Aug-2018 12:33:10 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[13-Aug-2018 12:36:07 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 12:36:08 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 12:36:16 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[13-Aug-2018 12:59:29 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 12:59:30 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 12:59:35 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[13-Aug-2018 13:09:28 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[13-Aug-2018 13:10:19 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[13-Aug-2018 13:10:23 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[13-Aug-2018 13:10:56 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 13:10:57 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 13:11:01 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[13-Aug-2018 13:11:49 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[13-Aug-2018 13:12:02 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[13-Aug-2018 13:13:14 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 858
+[13-Aug-2018 13:13:22 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[13-Aug-2018 13:13:22 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[13-Aug-2018 13:15:00 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[13-Aug-2018 13:15:01 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[13-Aug-2018 13:15:13 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/roomdaddy/admin/api/filter.php on line 865
+[14-Aug-2018 05:34:56 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[14-Aug-2018 05:34:57 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 05:39:21 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[14-Aug-2018 05:39:22 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 05:41:27 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[14-Aug-2018 05:41:28 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 05:42:30 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[14-Aug-2018 05:42:31 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 05:45:07 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[14-Aug-2018 05:45:08 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 05:47:24 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[14-Aug-2018 05:47:25 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 05:48:14 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[14-Aug-2018 05:48:15 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 05:54:52 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[14-Aug-2018 05:54:53 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 05:56:58 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/roomdaddy/admin/api/apiManager.php on line 700
+[14-Aug-2018 05:56:59 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/roomdaddy/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 06:00:45 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[14-Aug-2018 06:00:46 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 06:01:17 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[14-Aug-2018 06:01:18 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 06:56:34 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[14-Aug-2018 06:56:35 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 06:59:12 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[14-Aug-2018 06:59:13 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 06:59:52 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[14-Aug-2018 06:59:53 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 07:55:22 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 07:56:53 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 13:23:32 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[14-Aug-2018 13:23:33 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[14-Aug-2018 13:36:30 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[14-Aug-2018 13:36:31 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[15-Aug-2018 06:46:05 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 05:54:14 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 05:54:55 UTC] PHP Notice:  Undefined index: tenent_name in /home/roomdadd/public_html/admin/api/building-approval.php on line 38
+[16-Aug-2018 05:55:45 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 523
+[16-Aug-2018 05:55:45 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 531
+[16-Aug-2018 05:55:45 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 539
+[16-Aug-2018 05:55:45 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 05:55:45 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 05:55:45 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 05:56:42 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[16-Aug-2018 05:56:46 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 523
+[16-Aug-2018 05:56:46 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 531
+[16-Aug-2018 05:56:46 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 539
+[16-Aug-2018 05:56:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 05:56:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 05:56:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 05:57:00 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[16-Aug-2018 05:57:02 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 523
+[16-Aug-2018 05:57:02 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 531
+[16-Aug-2018 05:57:02 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 539
+[16-Aug-2018 05:57:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 05:57:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 05:57:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 692
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 700
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 708
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 05:57:22 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 692
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 700
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 708
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 05:57:55 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 06:02:44 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 858
+[16-Aug-2018 06:02:50 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 523
+[16-Aug-2018 06:02:50 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 531
+[16-Aug-2018 06:02:50 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 539
+[16-Aug-2018 06:02:50 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 06:02:50 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 06:02:50 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 06:16:59 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 08:09:30 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[16-Aug-2018 08:09:31 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 08:10:04 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 09:26:20 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[16-Aug-2018 09:32:08 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 09:42:23 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 09:52:53 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[16-Aug-2018 09:52:54 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 09:53:02 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 523
+[16-Aug-2018 09:53:02 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 531
+[16-Aug-2018 09:53:02 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 539
+[16-Aug-2018 09:53:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:53:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:53:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:53:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:53:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:53:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:53:30 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[16-Aug-2018 09:53:33 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 523
+[16-Aug-2018 09:53:33 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 531
+[16-Aug-2018 09:53:33 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 539
+[16-Aug-2018 09:53:33 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:53:33 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:53:33 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:53:33 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:53:33 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:53:33 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:53:58 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[16-Aug-2018 09:54:02 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 523
+[16-Aug-2018 09:54:02 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 531
+[16-Aug-2018 09:54:02 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 539
+[16-Aug-2018 09:54:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:54:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:54:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:54:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:54:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:54:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 09:54:52 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 858
+[16-Aug-2018 09:56:12 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[16-Aug-2018 09:57:11 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/admin/api/filter.php on line 865
+[16-Aug-2018 09:57:11 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/admin/api/filter.php on line 865
+[16-Aug-2018 09:59:18 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 858
+[16-Aug-2018 09:59:45 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 858
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 692
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 700
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 708
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 744
+[16-Aug-2018 09:59:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 747
+[16-Aug-2018 10:00:02 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 523
+[16-Aug-2018 10:00:02 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 531
+[16-Aug-2018 10:00:02 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 539
+[16-Aug-2018 10:00:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 10:00:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 10:00:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 10:00:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 10:00:02 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 562
+[16-Aug-2018 10:01:58 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 10:04:24 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 10:05:08 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 10:07:52 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/admin/api/filter.php on line 865
+[16-Aug-2018 10:07:52 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/admin/api/filter.php on line 865
+[16-Aug-2018 10:08:59 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 10:14:23 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 10:34:56 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 10:40:11 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 10:44:05 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 10:44:38 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 10:50:51 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 10:51:31 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 10:52:32 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 10:54:06 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 10:57:04 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 10:59:14 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 11:16:33 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 11:41:57 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 11:45:42 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 11:48:39 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 12:00:20 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 12:01:14 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 12:04:26 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 12:06:31 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 12:07:49 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 12:10:24 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 12:16:25 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[16-Aug-2018 12:29:55 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 06:44:41 UTC] PHP Notice:  Undefined index: data in /home/roomdadd/public_html/admin/api/filter.php on line 144
+[17-Aug-2018 06:46:14 UTC] PHP Notice:  Undefined index: data in /home/roomdadd/public_html/admin/api/filter.php on line 144
+[17-Aug-2018 06:46:16 UTC] PHP Notice:  Undefined index: data in /home/roomdadd/public_html/admin/api/filter.php on line 144
+[17-Aug-2018 06:46:59 UTC] PHP Notice:  Undefined index: data in /home/roomdadd/public_html/admin/api/filter.php on line 144
+[17-Aug-2018 06:47:38 UTC] PHP Notice:  Undefined index: data in /home/roomdadd/public_html/admin/api/filter.php on line 144
+[17-Aug-2018 06:47:42 UTC] PHP Notice:  Undefined index: data in /home/roomdadd/public_html/admin/api/filter.php on line 144
+[17-Aug-2018 06:47:45 UTC] PHP Notice:  Undefined index: data in /home/roomdadd/public_html/admin/api/filter.php on line 144
+[17-Aug-2018 06:49:55 UTC] PHP Notice:  Undefined variable: jsonstring in /home/roomdadd/public_html/admin/api/filter.php on line 169
+[17-Aug-2018 06:50:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/roomdadd/public_html/admin/api/filter.php on line 547
+[17-Aug-2018 06:50:33 UTC] PHP Notice:  Undefined variable: jsonstring in /home/roomdadd/public_html/admin/api/filter.php on line 170
+[17-Aug-2018 06:51:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/roomdadd/public_html/admin/api/filter.php on line 547
+[17-Aug-2018 06:51:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/roomdadd/public_html/admin/api/filter.php on line 547
+[17-Aug-2018 06:51:06 UTC] PHP Notice:  Undefined index: data in /home/roomdadd/public_html/admin/api/filter.php on line 146
+[17-Aug-2018 06:51:08 UTC] PHP Notice:  Undefined index: data in /home/roomdadd/public_html/admin/api/filter.php on line 146
+[17-Aug-2018 06:52:48 UTC] PHP Notice:  Undefined index: data in /home/roomdadd/public_html/admin/api/filter.php on line 146
+[17-Aug-2018 06:53:23 UTC] PHP Notice:  Undefined index: data in /home/roomdadd/public_html/admin/api/filter.php on line 146
+[17-Aug-2018 06:54:15 UTC] PHP Notice:  Undefined index: data in /home/roomdadd/public_html/admin/api/filter.php on line 146
+[17-Aug-2018 06:54:17 UTC] PHP Notice:  Undefined index: data in /home/roomdadd/public_html/admin/api/filter.php on line 146
+[17-Aug-2018 06:55:14 UTC] PHP Notice:  Undefined index: data in /home/roomdadd/public_html/admin/api/filter.php on line 146
+[17-Aug-2018 06:55:16 UTC] PHP Notice:  Undefined index: data in /home/roomdadd/public_html/admin/api/filter.php on line 146
+[17-Aug-2018 06:57:30 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/roomdadd/public_html/admin/api/filter.php on line 547
+[17-Aug-2018 11:05:23 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 11:17:41 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 11:20:24 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 11:22:42 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 11:30:43 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 11:31:37 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 11:40:51 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 11:48:25 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 11:50:16 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 11:57:20 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 12:05:34 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 12:09:11 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 12:14:36 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 12:14:46 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 12:21:58 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 12:25:34 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 12:28:27 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 12:29:53 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 12:46:46 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 12:48:35 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 12:49:48 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 12:56:36 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 13:10:06 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[17-Aug-2018 13:10:06 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[17-Aug-2018 13:10:06 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[17-Aug-2018 13:10:07 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 13:10:07 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 13:10:17 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 572
+[17-Aug-2018 13:10:17 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 580
+[17-Aug-2018 13:10:17 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 588
+[17-Aug-2018 13:10:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:10:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:10:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:10:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:10:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:10:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:10:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:10:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:10:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:10:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:10:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:10:17 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:10:30 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:30 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:32 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:32 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:33 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:33 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:33 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:33 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:35 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:35 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:37 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:37 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:37 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:38 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:38 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:42 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:52 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:52 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:53 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:53 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:53 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:53 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:53 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:54 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:54 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:54 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:54 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:55 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:10:55 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:11:31 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:11:31 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:11:32 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:13:25 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 13:13:50 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[17-Aug-2018 13:13:51 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 13:14:06 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 572
+[17-Aug-2018 13:14:06 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 580
+[17-Aug-2018 13:14:06 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 588
+[17-Aug-2018 13:14:06 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:14:06 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:14:06 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:14:06 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:14:06 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:14:06 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:14:06 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:14:06 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:14:06 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:14:06 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:14:06 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:14:06 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:14:20 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:14:24 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:14:27 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:14:32 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:14:34 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:15:16 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[17-Aug-2018 13:15:18 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 13:15:30 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 572
+[17-Aug-2018 13:15:30 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 580
+[17-Aug-2018 13:15:30 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 588
+[17-Aug-2018 13:15:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:15:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:15:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:15:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:15:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:15:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:15:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:15:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:15:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:15:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:15:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:15:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:15:59 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:19:26 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[17-Aug-2018 13:19:27 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 13:19:36 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 572
+[17-Aug-2018 13:19:36 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 580
+[17-Aug-2018 13:19:36 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 588
+[17-Aug-2018 13:19:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:19:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:19:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:19:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:19:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:19:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:19:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:19:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:19:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:19:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:19:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:19:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:19:49 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[17-Aug-2018 13:21:37 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[17-Aug-2018 13:21:38 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 13:21:46 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 572
+[17-Aug-2018 13:21:46 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 580
+[17-Aug-2018 13:21:46 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 588
+[17-Aug-2018 13:21:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:21:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:21:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:21:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:21:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:21:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:21:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:21:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:21:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:21:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:21:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:21:46 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:30 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[17-Aug-2018 13:33:31 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 13:33:36 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 572
+[17-Aug-2018 13:33:36 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 580
+[17-Aug-2018 13:33:36 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 588
+[17-Aug-2018 13:33:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:47 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/admin/api/filter.php on line 914
+[17-Aug-2018 13:33:47 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/admin/api/filter.php on line 914
+[17-Aug-2018 13:33:47 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/admin/api/filter.php on line 914
+[17-Aug-2018 13:33:47 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/admin/api/filter.php on line 914
+[17-Aug-2018 13:33:49 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 572
+[17-Aug-2018 13:33:49 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 580
+[17-Aug-2018 13:33:49 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 588
+[17-Aug-2018 13:33:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:33:49 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[17-Aug-2018 13:34:27 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 13:34:43 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 13:43:08 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 13:44:45 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 13:45:10 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 14:09:31 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[17-Aug-2018 14:54:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/roomdadd/public_html/admin/api/apiManager.php on line 719
+[18-Aug-2018 04:25:28 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[18-Aug-2018 11:19:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/roomdadd/public_html/admin/api/apiManager.php on line 719
+[18-Aug-2018 11:20:09 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[18-Aug-2018 11:20:42 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[18-Aug-2018 11:20:49 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[18-Aug-2018 11:20:50 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[18-Aug-2018 11:20:58 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/admin/api/filter.php on line 914
+[18-Aug-2018 18:26:37 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[18-Aug-2018 18:26:48 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[18-Aug-2018 18:46:37 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 741
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 749
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 757
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:30 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 741
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 749
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 757
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined index: AreaName in /home/roomdadd/public_html/admin/api/filter.php on line 793
+[18-Aug-2018 18:48:34 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 796
+[18-Aug-2018 18:49:14 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 572
+[18-Aug-2018 18:49:14 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 580
+[18-Aug-2018 18:49:14 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 588
+[18-Aug-2018 18:49:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[18-Aug-2018 18:49:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[18-Aug-2018 18:49:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[18-Aug-2018 18:49:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[18-Aug-2018 18:49:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[18-Aug-2018 18:49:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[18-Aug-2018 18:49:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[18-Aug-2018 18:49:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[18-Aug-2018 18:49:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[18-Aug-2018 18:49:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[18-Aug-2018 18:49:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[18-Aug-2018 18:49:14 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 611
+[18-Aug-2018 18:49:21 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 05:52:33 UTC] PHP Notice:  Undefined index: admin_id in /home/roomdadd/public_html/admin/api/filter.php on line 869
+[20-Aug-2018 05:52:33 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 907
+[20-Aug-2018 05:52:50 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/admin/api/filter.php on line 914
+[20-Aug-2018 05:52:50 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/admin/api/filter.php on line 914
+[20-Aug-2018 05:52:50 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/admin/api/filter.php on line 914
+[20-Aug-2018 05:52:50 UTC] PHP Notice:  Undefined index: closed in /home/roomdadd/public_html/admin/api/filter.php on line 914
+[20-Aug-2018 05:55:39 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[20-Aug-2018 06:00:01 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 06:00:36 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[20-Aug-2018 06:01:44 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[20-Aug-2018 06:04:09 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[20-Aug-2018 06:04:47 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[20-Aug-2018 06:04:47 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 06:05:27 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 06:05:49 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[20-Aug-2018 06:07:31 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[20-Aug-2018 06:09:46 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[20-Aug-2018 06:10:25 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 700
+[20-Aug-2018 06:10:26 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 06:10:30 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[20-Aug-2018 06:10:37 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[20-Aug-2018 06:10:59 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[20-Aug-2018 06:11:59 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[20-Aug-2018 06:12:40 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 31
+[20-Aug-2018 06:14:32 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 06:23:12 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 06:31:59 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 06:36:14 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 06:36:41 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 06:37:33 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 701
+[20-Aug-2018 06:37:34 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 06:38:20 UTC] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/roomdadd/public_html/admin/api/apiManager.php on line 32
+[20-Aug-2018 06:40:28 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 06:40:36 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 575
+[20-Aug-2018 06:40:36 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 583
+[20-Aug-2018 06:40:36 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 591
+[20-Aug-2018 06:40:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:40:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:40:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:40:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:40:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:40:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:40:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:40:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:40:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:40:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:40:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:40:36 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:41:02 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:02 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:02 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:03 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:03 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:03 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:03 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:04 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:05 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:05 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:07 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:07 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:11 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:12 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:13 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:32 UTC] PHP Notice:  Undefined variable: num in /home/roomdadd/public_html/admin/api/apiManager.php on line 701
+[20-Aug-2018 06:41:33 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 06:41:33 UTC] PHP Notice:  Undefined variable: building in /home/roomdadd/public_html/admin/api/upcoming-rooms.php on line 43
+[20-Aug-2018 06:41:38 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 575
+[20-Aug-2018 06:41:38 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 583
+[20-Aug-2018 06:41:38 UTC] PHP Notice:  Undefined variable: row in /home/roomdadd/public_html/admin/api/filter.php on line 591
+[20-Aug-2018 06:41:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:41:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:41:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:41:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:41:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:41:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:41:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:41:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:41:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:41:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:41:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:41:38 UTC] PHP Notice:  Undefined variable: attachment_two in /home/roomdadd/public_html/admin/api/filter.php on line 614
+[20-Aug-2018 06:41:52 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:54 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:56 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:57 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:57 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:57 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:58 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:58 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:58 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:58 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:59 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:59 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:59 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:59 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:41:59 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:42:00 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:42:00 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:42:00 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:42:00 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910
+[20-Aug-2018 06:42:01 UTC] PHP Notice:  Trying to get property of non-object in /home/roomdadd/public_html/admin/api/filter.php on line 910

@@ -1,0 +1,40 @@
+ .profile-sec-inr .profile-userpic img{
+	width:100%;
+	float:left;
+	margin-top: 5px;
+
+}
+
+.edit-pro {
+    float: left;
+    width: 100%;
+    margin: 0px 0px 20px;
+}
+.img_sidebar {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    padding: 5px;
+}
+.profile_info {
+    padding: 15px 10px 10px !important;
+}
+.paymnt_fond {
+    text-align: center;
+} 
+.submit-btn{
+	float:right;
+}
+.submit-btn .btn-default{
+	margin-right:0px;
+}
+.form-horizontal .control-label{
+	font-size: 15px;
+font-weight: 400;
+}
+
+
+.submit_btn {
+    float: left;
+    margin-left: 102px;
+}
